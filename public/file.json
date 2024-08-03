@@ -1,0 +1,124 @@
+{
+   
+    "data": [
+        {
+            "campaignId": "120212120568860316",
+            "campaignName": "SHORELINE BY DAMAC RAK | UAE",
+            "country": "India",
+            "spend": 30.79,
+            "leads": "0"
+        },
+        {
+            "campaignId": "120212103065570316",
+            "campaignName": "MARYAM SHARJAH | UAE  Campaign",
+            "country": "UAE",
+            "spend": 32.06,
+            "leads": "0"
+        },
+        {
+            "campaignId": "120211993692050316",
+            "campaignName": "SHORELINE BY DAMAC RAK | UAE",
+            "country": "India",
+            "spend": 83.7,
+            "leads": "0"
+        },
+        {
+            "campaignId": "120211933722720316",
+            "campaignName": "ARLO By Emaar | EN | Bangladesh",
+            "country": "Bangladesh",
+            "spend": 18.38,
+            "leads": "7"
+        },
+        {
+            "campaignId": "120211834372370316",
+            "campaignName": "D2  Twin Villa |  UAE  | EN",
+            "country": "India",
+            "spend": 62.8,
+            "leads": "0"
+        },
+        {
+            "campaignId": "120211834344080316",
+            "campaignName": "D2 Violet | EN | PAK",
+            "country": "Pakistan",
+            "spend": 46.2,
+            "leads": "7"
+        },
+        {
+            "campaignId": "120211657861210316",
+            "campaignName": "Lua |  UAE  | EN",
+            "country": "UAE",
+            "spend": 187.15,
+            "leads": "5"
+        },
+        {
+            "campaignId": "120211504033200316",
+            "campaignName": "Reportage Village | UAE",
+            "country": "UAE",
+            "spend": 133.79,
+            "leads": "7"
+        },
+        {
+            "campaignId": "120211450474750316",
+            "campaignName": "Ajman - RTM | India | SAIF",
+            "country": "India",
+            "spend": 41,
+            "leads": "4"
+        },
+        {
+            "campaignId": "120211449820910316",
+            "campaignName": "ELO 3 | UAE",
+            "country": "UAE",
+            "spend": 94.36,
+            "leads": "4"
+        },
+        {
+            "campaignId": "120211110876500316",
+            "campaignName": "Nshama | EN | PAK",
+            "country": "Pakistan",
+            "spend": 58.5,
+            "leads": "4"
+        },
+        {
+            "campaignId": "120211040719680316",
+            "campaignName": "Ghaf Woods| EN | UAE",
+            "country": "UAE",
+            "spend": 99.87,
+            "leads": "1"
+        },
+        {
+            "campaignId": "120213567557640230",
+            "campaignName": "D2 Violet | UAE | C2",
+            "country": "UAE",
+            "spend": 50.52,
+            "leads": "0"
+        },
+        {
+            "campaignId": "120212971570910230",
+            "campaignName": "D2 Violet | UAE | EN",
+            "country": "UAE",
+            "spend": 95.83,
+            "leads": "2"
+        },
+        {
+            "campaignId": "120212811662350230",
+            "campaignName": "THOE | UAE |  EN",
+            "country": "UAE",
+            "spend": 132.27,
+            "leads": "1"
+        },
+        {
+            "campaignId": "120212665044340230",
+            "campaignName": "Roadshow Pune 2024 | India |  EN",
+            "country": "India",
+            "spend": 47.38,
+            "leads": "3"
+        },
+        {
+            "campaignId": "120211950667010230",
+            "campaignName": "Nshama Lana | pakistan | C1",
+            "country": "Pakistan",
+            "spend": 69.21,
+            "leads": "4"
+        }
+    ]
+}

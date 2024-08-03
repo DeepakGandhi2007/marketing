@@ -1,0 +1,96 @@
+@import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
+
+
+
+.bg-blue{
+  background:#0d1846;
+  color:white;
+  height: 100%;
+}
+form {
+    min-width:300px;
+    max-width:250px;
+    border-radius: 10px;
+    padding:20px;
+    margin:0 auto;
+    background:#fff;
+    color:#333; 
+   
+  }
+  form label{
+    font-size: 12px;
+  }
+
+  
+  form input {
+    border:1px solid #eee;
+    border-radius:0 !important;
+    padding:5px 8px;
+    font-size: 10px !important;
+    color:#333;
+  }
+  .img-div {
+    position: relative;
+    height: 100px;
+    width: 150px;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  
+  
+  form button {
+    color:#555;
+    background:#ffffffad;
+    border:1px solid #fff !important;
+    margin-top:20px;
+    border-radius:0px Important;
+  }
+  
+  form button:hover {
+    background:#fff !important;
+  }
+  
+  .pull-right {
+    float:right;
+  }
+
+  .bg-login{
+    background-image: url('/assets/images/bg-image.png');
+    background-repeat: round;
+    background-attachment: fixed;
+  }
+  .placeholder-bold{
+    border-radius: 5px;
+    height: 40px;
+  }
+
+  .placeholder-bold::-webkit-input-placeholder { 
+    font-family: FontAwesome;
+    overflow: visible;
+    vertical-align: top;
+    display: inline-block !important;
+    font-size: 12px;
+    color: #000; 
+    font-weight: normal;
+    }
+    
+    .placeholder-bold::-moz-placeholder  { 
+    font-family: FontAwesome;
+    overflow: visible;
+    vertical-align: top;
+    display: inline-block !important;
+    font-size: 12px;
+    color: #000; 
+    font-weight: normal;
+    }
+    
+    .placeholder-bold:-ms-input-placeholder  { 
+    font-family: FontAwesome;
+    font-weight: normal;
+    overflow: visible;
+    vertical-align: top;
+    font-size: 12px;
+    display: inline-block !important;
+    color: #000; 
+    font-weight: normal;
+    }

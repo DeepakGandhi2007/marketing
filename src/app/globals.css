@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.main-content{
+  margin-left: 240px;
+  overflow: hidden;
+}
+.ml-15{
+  margin-left: 15px;
+}
+
+body::-webkit-scrollbar {
+  width: 0px;               /* width of the entire scrollbar */
+}
+ 
+ 
