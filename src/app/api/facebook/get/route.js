@@ -7,7 +7,7 @@ import fs from 'fs';
 
 const accessToken = "EAAQrsH4giisBO7R7Dz34VJCj6TS4DzNjLrh9lZCfgNXpsuThjKdKO1U0uMZAxlIr8ZA4IwC5Cl7wIgipjBycg9C6zqvErXGE7Xd1szZCKWigOmKUiYU4C0fi3uAhcEvxmSte1Xb2ZA1tMZAABE0aJJbvZAXPwm5rUzRjOFfOTWl67hCn0NlU5fZBhSznEwHe5LNvbImh4Wao";
 const adAccounts = ['act_3823127191257337', 'act_112713589486777'];
-const reportDate = '2024-07-31';
+const reportDate = '2024-08-02';
 
 
 function get_country_from_campaign_name(campaign_name) {
